@@ -32,10 +32,10 @@
     <img alt="欢迎提交PR！" src="https://img.shields.io/badge/PRs-欢迎-brightgreen.svg?style=flat"  />
   </a>
   <a href="https://discord.gg/UexuTaE">
-    <img alt="Discord交流群" src="https://img.shields.io/discord/723672430744174682?color=738ad6&label=Discord交流&logo=discord&logoColor=ffffff&widge=false"/>
+    <img alt="Discord交流群" src="https://img.shields.io/discord/723672430744174682?color=738ad6&label=Chat%20on%20Discord&logo=discord&logoColor=ffffff&widge=false"/>
   </a>
   <a href="https://twitter.com/excalidraw">
-    <img alt="关注Excalidraw推特" src="https://img.shields.io/twitter/follow/excalidraw.svg?label=关注@excalidraw&style=social&logo=twitter"/>
+    <img alt="关注Excalidraw推特" src="https://img.shields.io/twitter/follow/excalidraw.svg?label=follow@excalidraw&style=social&logo=twitter"/>
   </a>
 </p>
 
